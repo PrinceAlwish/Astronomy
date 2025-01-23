@@ -5,6 +5,12 @@ Here is a link to one of the most exciting read on astronomy: https://openstax.o
 Astronomy is defined as the study of the objects that lie beyond our planet Earth and the processes by which these objects interact with one another.
 # About me
 Am passionate about celestial beings and am constantly searching for information about this great master piece of creation.
+
+**Vision:**
+To become a leading astronomer, advancing my understanding of the universe through innovative research, education, and public outreach, while inspiring the next generation of space explorers.
+
+**Mission Statement:**
+To pursue excellence in astronomical research, leveraging cutting-edge technologies and interdisciplinary approaches to unravel the mysteries of the cosmos, foster collaboration within the scientific community, and communicate the wonders of the universe to the public.
 # Here are the current Books in my Astronomy Library
 1. Astronomy for beginners by Jeff Becan
 2. Astronomy for Mere Mortals – An Introductory Astronomy Text Copyright © 2023 Aaron B. Clevenson
